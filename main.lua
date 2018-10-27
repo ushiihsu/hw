@@ -8,4 +8,4 @@ local msgText = display.newText( "Hello, world!", display.contentWidth*0.5,displ
 msgText:setFillColor( 0.2, 0.6, 0.8 )
 
 local msgText = display.newText( "Hello, world!", display.contentWidth*0.5,display.contentHeight*0.5, native.systemFont, 32 )
-msgText:setFillColor( 0.2, 0.6, 0.8 )
+msgText:setFillColor( 0.2, 0.6, 0.9)
